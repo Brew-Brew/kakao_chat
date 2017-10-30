@@ -1,0 +1,23 @@
+{
+  "name": "kakao_chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chatbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zx6658/kakao_chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zx6658/kakao_chat/issues"
+  },
+  "homepage": "https://github.com/zx6658/kakao_chat#readme",
+  "dependencies": {
+    "finalhandler": "^1.1.0",
+    "router": "^1.3.2"
+  }
+}
